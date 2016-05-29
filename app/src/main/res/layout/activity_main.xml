@@ -10,9 +10,16 @@
     tools:context="com.carturo8824.petagram.MainActivity">
 
     <TextView
+        android:id="@+id/tvTitulo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        android:id="@+id/textView" />
+        android:text="@string/texto_titulo" />
+    <Button
+        android:id="@+id/btnMiBoton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvTitulo"
+        android:text="@string/texto_boton_click"
+        android:theme="@style/MiBotonRaised"/>
 
 </RelativeLayout>
