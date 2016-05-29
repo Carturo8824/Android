@@ -19,8 +19,15 @@
         jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="113199b2f6f0b604e766b804161f01d13c6114a0">
+        sha1="19c3b1bc81c6e94520167535a5199cdc8c06652d">
         <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7a644e6c57c49c7ad7f251895fb21bf3115f71cf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_76f09d56971d4cdbf56264cc7e130ec90089f7ad\classes.dex" />
     </item>
     <item
         jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
@@ -28,6 +35,13 @@
         revision="23.0.3"
         sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
         <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_bbc1510f9fde15648c7a55f6e95db7f46471f383\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_228bc0b87c964624848911d884d9abb1f9e340ed\classes.dex" />
     </item>
     <item
         jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
@@ -40,7 +54,7 @@
         jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="620327fc660faa3d03c2f0989a3f24b1e6da61d0">
+        sha1="7e1fac69e3337cd3447b3b672da215cdfc0db76b">
         <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c1e0aacf47d7693e0dc20f0c7558bf3a69d5ff2a\classes.dex" />
     </item>
     <item
