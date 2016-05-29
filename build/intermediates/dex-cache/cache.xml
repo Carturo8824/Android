@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Borregos123\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_ebd3f6375dc30f52c460986f6468b6f6200e3cf9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_f2267f01f216b028a0f9169c164380d7d4a14733\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="113199b2f6f0b604e766b804161f01d13c6114a0">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7a644e6c57c49c7ad7f251895fb21bf3115f71cf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_bbc1510f9fde15648c7a55f6e95db7f46471f383\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_f17526e6204dae0a981b77f9f012b9a82599ee80\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="620327fc660faa3d03c2f0989a3f24b1e6da61d0">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c1e0aacf47d7693e0dc20f0c7558bf3a69d5ff2a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_511dca3447778d743ad9589d56f0f538c53aed34\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Borregos123\AndroidStudioProjects\Petagram\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_bd1e8a27cf523bce2c0df2e04e752e1525aa1528\classes.dex" />
+    </item>
+
+</items>
